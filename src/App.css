@@ -38,19 +38,32 @@
 }
 
 /* profile picture */
-#profile-container{
+#profile-container {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
 }
 
-#profile__img{
+#profile__img {
   border-radius: 50% !important;
   height: 200px;
   width: 200px;
 }
 
-#twitter{
+#slack {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
   font-size: 24px;
-  font-weight: bold;
+  
+}
+
+.btn-secondary {
+  background: #EAECF0;
+  color: #000;
+}
+.btn-secondary:hover {
+  background: #D6D8DC;
+  color: #000;
 }

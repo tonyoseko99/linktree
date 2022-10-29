@@ -10,7 +10,7 @@ function Profile() {
           alt="profile"
           id="profile__img"
         ></img>
-        <div id="twitter">Tonny Oseko</div>
+        <div id="slack">Tonny Oseko</div>
       </div>
     </div>
   );
