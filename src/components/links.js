@@ -35,10 +35,10 @@ function Links() {
       <button
         type="button"
         class="btn btn-secondary btn-lg btn-block"
-        id="twitter"
+        id="books"
       >
         <a
-          href="https://twitter.com/TonyOseko"
+          href="http://books.zuri.team"
           target="_blank"
           rel="noopener noreferrer"
         >
