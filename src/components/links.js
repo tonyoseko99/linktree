@@ -21,10 +21,10 @@ function Links() {
       <button
         type="button"
         class="btn btn-secondary btn-lg btn-block"
-        id="twitter"
+        id="btn__zuri"
       >
         <a
-          href="https://twitter.com/TonyOseko"
+          href="https://training.zuri.team/"
           target="_blank"
           rel="noopener noreferrer"
         >
