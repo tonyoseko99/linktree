@@ -52,21 +52,21 @@ function Links() {
         id="book__python"
       >
         <a
-          href="http://books.zuri.team"
+          href="https://books.zuri.team/python-for-beginners?ref_id=tonnyseko"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Python Books
+          Get this Python Book to learn the basics of Python
         </a>
       </button>
       {/* Background check for coders */}
       <button
         type="button"
         class="btn btn-secondary btn-lg btn-block"
-        id="twitter"
+        id="pitch"
       >
         <a
-          href="https://twitter.com/TonyOseko"
+          href="https://background.zuri.team"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -77,10 +77,10 @@ function Links() {
       <button
         type="button"
         class="btn btn-secondary btn-lg btn-block"
-        id="twitter"
+        id="book__design"
       >
         <a
-          href="https://twitter.com/TonyOseko"
+          href="https://books.zuri.team/design-rules "
           target="_blank"
           rel="noopener noreferrer"
         >
