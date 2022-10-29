@@ -56,7 +56,7 @@ function Links() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get this Python Book to learn the basics of Python
+          Learn python for beginners
         </a>
       </button>
       {/* Background check for coders */}
