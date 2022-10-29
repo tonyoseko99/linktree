@@ -1,8 +1,8 @@
 import react from "react";
-import profile from "../assets/profile-pic.png";
+import profile from "../assets/profileImage.png";
 function Profile() {
   return (
-    <div className="container">
+    <div className="container" id="profile-container">
       <div class="text-center">
         <img
           src={profile}
@@ -10,6 +10,7 @@ function Profile() {
           alt="profile"
           id="profile__img"
         ></img>
+        <div id="twitter">Tonny Oseko</div>
       </div>
     </div>
   );
